@@ -47,6 +47,11 @@ After downloading and installing the application, follow these steps to run it:
 
 This application focuses on several important topics in the field of artificial intelligence. Here’s a brief overview:
 
+- [agent-qa](https://github.com/vostride/agent-qa) - **764 stars** - Open-source self-improving QA agent for software teams.
+  - Runs natural-language tests for web and mobile software
+  - Self-heals UI interactions when applications change
+  - Learns from every run through persistent execution memory
+  - Integrates with coding agents through MCP and agent skills
 - **Agent Evaluation**: Understand how to properly assess the capabilities of AI agents.
 - **AI Safety**: Learn best practices for developing safe AI systems.
 - **Chaos Engineering**: Discover how to introduce variability in your AI tests to improve robustness.
